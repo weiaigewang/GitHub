@@ -113,9 +113,11 @@
    
    
    ![出现以下题](https://upload-images.jianshu.io/upload_images/1252625-c35c5979dea51dcf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
-   出现这样的问题是由于:自己当前版本低于远程仓库版本
+   
+   
+#   出现这样的问题是由于:自己当前版本低于远程仓库版本
 
-##有如下几种解决方法：
+## 有如下几种解决方法：
 
 >1.使用强制push的方法：
 ```
